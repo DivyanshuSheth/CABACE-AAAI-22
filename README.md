@@ -1,5 +1,5 @@
 # BacKGProp-AAAI-22
-Code and Pre-Processed data for our paper in SDU **AAAI 2022** titled: **CABACE: Injecting Character Sequence Information and Domain Knowledge for Enhanced Acronym and Long-Form Extraction**
+Code and Pre-Processed data for our paper in SDU **AAAI 2022** titled: **CABACE: Injecting Character Sequence Information and Domain Knowledge for Enhanced Acronym and Long-Form Extraction: https://arxiv.org/abs/2112.13237**
 
 ## Backdrop
 Acronyms and long-forms are commonly found in research
